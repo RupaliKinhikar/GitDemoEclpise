@@ -1,0 +1,8 @@
+01:18:39.049 [main] INFO  resources.Base - Login sucessed
+01:18:47.799 [main] INFO  resources.Base - NavigationBarValidation url is reached
+01:18:47.958 [main] INFO  resources.Base - Navigation bar is present
+23:12:12.502 [main] INFO  resources.Base - Driver is initialized
+23:12:18.937 [main] INFO  resources.Base - Naviagated to Home page
+23:12:34.249 [main] INFO  resources.Base - Login sucessed
+23:12:38.753 [main] INFO  resources.Base - Login sucessed
+23:12:48.358 [main] INFO  resources.Base - NavigationBarValidation url is reached

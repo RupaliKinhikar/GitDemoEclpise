@@ -1,0 +1,7 @@
+00:25:41.236 [TestNG-tests-3] INFO  resources.Base - Navigation bar is present
+00:25:47.274 [TestNG-tests-2] INFO  resources.Base - Login sucessed
+00:26:03.189 [TestNG-tests-2] INFO  resources.Base - Login sucessed
+00:41:01.972 [TestNG-tests-1] INFO  resources.Base - Driver is initialized
+00:41:09.035 [TestNG-tests-1] INFO  resources.Base - Naviagated to Home page
+00:41:10.195 [TestNG-tests-3] INFO  resources.Base - NavigationBarValidation url is reached
+00:41:10.646 [TestNG-tests-3] INFO  resources.Base - Navigation bar is present
